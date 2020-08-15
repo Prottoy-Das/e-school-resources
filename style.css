@@ -54,3 +54,40 @@ p{
     box-shadow: 10px 10px 30px lightgray;
 }
 
+.card{
+    border: none;
+    border-radius: 11px;
+    box-shadow: 10px 10px 30px lightgray;
+    padding: 20px;
+}
+
+.card-footer img{
+    width: 20px;
+    padding-right: 4px;
+    padding-bottom: 5px;
+}
+
+.card-footer{
+    background-color: white;
+}
+
+.calendar, .people{
+    color: #585859;
+}
+
+.man-pc{
+    width: 120px;
+    height: 120px;
+    border: 50%;
+    margin-left: 160px;
+}
+.section2{
+    height: 200px;
+}
+
+
+
+
+
+
+
