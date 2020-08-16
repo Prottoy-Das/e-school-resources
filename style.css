@@ -60,6 +60,9 @@ p{
     box-shadow: 10px 10px 30px lightgray;
     padding: 20px;
 }
+.card:hover{
+    box-shadow: 20px 20px 60px lightgray;
+}
 
 .card-footer img{
     width: 20px;
@@ -69,6 +72,7 @@ p{
 
 .card-footer{
     background-color: white;
+    border-top: none;
 }
 
 .calendar, .people{
@@ -84,6 +88,18 @@ p{
 .section2{
     height: 200px;
 }
+.section-3{
+    height: 650px;
+}
+
+footer{
+    background-color: #282531;
+    
+}
+
+
+
+
 
 
 
